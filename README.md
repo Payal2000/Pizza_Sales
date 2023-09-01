@@ -47,6 +47,8 @@ Tableau was used to create various visualizations to explore and validate the an
 
 - **All-Time High and Low Sales (Gantt Chart):** Identifies historical sales peaks and lows.
 
+  <img align="center" alt="zerotwo-pic" height="150" style="border-radius:60px;" src="https://github.com/Payal2000/Payal2000/blob/main/batman-thinking.gif">
+
 ## Conclusion
 
 This project combines SQL analysis and Tableau visualization to gain valuable insights into pizza sales. It provides actionable information for product management, pricing strategies, and marketing efforts. The integration of SQL and Tableau offers a powerful toolkit for data-driven decision-making.
